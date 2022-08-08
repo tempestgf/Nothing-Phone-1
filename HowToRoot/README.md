@@ -1,4 +1,4 @@
-# How to Root Nothing Phone (1)
+# How to Root :: Nothing Phone (1)
 
 #### This HowToRoot guide will be using magisk framework, android sdk platform tools, and payload-dumper-go to root the NothingPhone (1) the easiest way posible, if prefered a script is made to automaticlly root the Nothing Phone (1).
 ---
